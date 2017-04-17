@@ -2,7 +2,7 @@
 
 title: AngelBCN
 
-baseurl: AngelBCN/
+baseurl: /AngelBCN
 sass: 
     style: compressed
 
