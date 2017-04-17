@@ -4,7 +4,7 @@ title: AngelBCN
 
 
 
-baseurl: ""
+baseurl: "https://angelbcn.github.io/"
 sass: 
     style: compressed
 
